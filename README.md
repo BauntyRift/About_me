@@ -1,0 +1,7 @@
+Немного обо мне
+
+Меня зовут Дмитрий, мне 18 лет. Моя любимая серия игр - "The Legend of Zelda", а моя любимая игра из этой серии - Tears of the Kingdom.
+
+Вот так выглядит главный герой этой игры:
+
+![Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe8e6ab4-bc07-4932-bca4-17e2d7594645/dfp8cmz-fca2ac0c-b4ad-46bf-a226-5a741b9bfdd4.png/v1/fill/w_1280,h_1080/link__alt_____legend_of_zelda_tears_of_the_kingdom_by_rubychu96_dfp8cmz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2ZlOGU2YWI0LWJjMDctNDkzMi1iY2E0LTE3ZTJkNzU5NDY0NVwvZGZwOGNtei1mY2EyYWMwYy1iNGFkLTQ2YmYtYTIyNi01YTc0MWI5YmZkZDQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.I6PEuJrysyOrdQJp0eKTjcNIyqyw8z9HKpfBI2bjnKA)
